@@ -5,5 +5,7 @@
 - 👯 I’m looking to collaborate with JonayedMohiuddin
 - 🤔 I’m looking for help with me learning
 - 💬 Ask me about Anime, Programming or Physics
-- 📫 How to reach me: abdullahbinjahed35@gmail.com
+- 📫 How to reach me:
+  - https://m.facebook.com/abdullahbinjahed.abj.50
+  - abdullahbinjahed35@gmail.com
 - ⚡ Fun fact: You are awesome
