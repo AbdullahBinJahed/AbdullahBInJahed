@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Termux
 - 🌱 I’m currently learning C++ and vim
 - 👯 I’m looking to collaborate with JonayedMohiuddin
-- 🤔 I’m looking for help with me learning
+- 🤔 I’m looking for help with me learning C++
 - 💬 Ask me about Anime, Programming or Physics
 - 📫 How to reach me:
   - https://m.facebook.com/abdullahbinjahed.abj.50
