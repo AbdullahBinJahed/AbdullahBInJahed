@@ -11,3 +11,7 @@ I'm just a average person trying to live a average happy life
   - 🙂📖 Knock me at [Facebook](abdullahbinjahed35@gmail.com)
 - ⚡ Fun fact: You are awesome 💖
 - 😍 btw ... my favorite anime character is Sakura Adachi from [Adachi to Shimamura](https://jnovels.com/adachi-and-shimamura-pdf/)
+
+![My Guthub Stats](https://github-readme-stats.vercel.app/api?username=JonayedMohiuddin&show_icons=true&theme=blue-green)
+
+
