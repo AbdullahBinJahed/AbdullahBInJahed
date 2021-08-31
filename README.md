@@ -11,7 +11,7 @@ I'm just a average person trying to live a average happy life. I love Physics, C
   - ☢️ __Compiler Design__
   - 🏃‍♂️ __Competetive Programming__
   - 🖥️ __Computer Design__
- - 😎 I have some experience working with : 
+- 😎 I have some experience working with : 
   - 📱 Android Development
   - 🎮 LibGdx Game Dev
   - 🌐 HTML, CSS and Javascript
