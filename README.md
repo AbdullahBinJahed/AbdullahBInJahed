@@ -30,9 +30,9 @@ I'm just a average person trying to live a average happy life. I love Physics, C
  
  <br>
  
-- 👨‍💻 I’m currently working on ...<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahBinJahed&repo=Cpp_Log&show_owner=true&theme=github_dark)](https://github.com/AbdullahBinJahed/Cpp_Log)
-- 👯 I’m looking forward to collaborate with [my Besto Friendo](https://github.com/JonayedMohiuddin) for any type of project
+- 👨‍💻 I’m currently working on ...<br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahBinJahed&repo=Cpp_Log&show_owner=true&theme=github_dark)](https://github.com/AbdullahBinJahed/Cpp_Log)<br><br>
+- 👯 I’m looking forward to collaborate with my [Mabudachi](https://github.com/JonayedMohiuddin) for any type of project
 - 🤔 I’m looking for help with me learning C++
 - 💬 Ask me about Anime, Programming or Physics
 - 🤔 I'll try to learn in future:
