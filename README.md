@@ -8,14 +8,14 @@ I'm just a average person trying to live a average happy life. I love Physics, C
 - 🤔 I’m looking for help with me learning C++
 - 💬 Ask me about Anime, Programming or Physics
 - 🤔 I'll try to learn in future:
-  - ☢️ __Compiler Design__
-  - 🏃‍♂️ __Competetive Programming__
-  - 🖥️ __Computer Design__
+   - ☢️ __Compiler Design__
+   - 🏃‍♂️ __Competetive Programming__
+   - 🖥️ __Computer Design__
  - 😎 I have some experience working with : 
-  - 📱 Android Development
-  - 🎮 LibGdx Game Dev
-  - 🌐 HTML, CSS and Javascript
-  - 🌙 Lua programming.(👶 My first exposure to programming)
+   - 📱 Android Development
+   - 🎮 LibGdx Game Dev
+    - 🌐 HTML, CSS and Javascript
+    - 🌙 Lua programming.(👶 My first exposure to programming)
 - 📫 How to reach me:
   - ✉️ Mail me at [Gmail](https://m.facebook.com/abdullahbinjahed.abj.50)
   - 🙂📖 Knock me at [Facebook](abdullahbinjahed35@gmail.com)
