@@ -18,7 +18,7 @@ I'm just a average person trying to live a average happy life. I love Physics, C
  
  - 🔭 Sakura Adachi FanBoi, don't judge 🙂
 
- - 🛸 Into Physics, Computers, Anime, Foreign culture, History, Cosmology,
+ - 🛸 Into Physics, Computers, Anime, Foreign culture, History, Cosmology and many more,
 
  - ⛰️ My hobby is coding, reading non-fiction, manga or LN and hanging out with friends
 
