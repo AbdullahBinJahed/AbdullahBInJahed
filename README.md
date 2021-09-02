@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👦 Abdullah Bin Jahed | 💻 Physics and IT and Anime enthusiast | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👦 Abdullah Bin Jahed | 💻 IT and Physics enthusiast | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <!--
 I'm just a average person trying to live a average happy life. I love Physics, Computers and Anime.
@@ -22,7 +22,7 @@ I'm just a average person trying to live a average happy life. I love Physics, C
 
  - ⛰️ My hobby is coding, reading non-fiction, manga or LN and hanging out with friends
 
- - 👨‍🔬 Have interest in too many things despite not having the <br> talent to follow , I still try my best
+ - 👨‍🔬 Have interest in too many things despite not having the <br> talent to follow , I shall still try my best
  
  - ⚡ All About living life at its best. ⚡
  
