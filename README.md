@@ -55,6 +55,10 @@ I'm just a average person trying to live a average happy life. I love Physics, C
 
 [![Abdullah's Guthub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahBinJahed&show_icons=true&include_all_commits=true&theme=blue-green)](https://github.com/AbdullahBinJahed)
 
+<p align="center">And here's a graph for people who like graphs: </p>
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbdullahBinJahed&theme=github)
+
 <!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Html" style="vertical-align:top; margin:4px"> 
