@@ -89,9 +89,10 @@ I'm just a average person trying to live a average happy life. I love Physics, C
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 -->
 </p>
-  
- <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+
+
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 
 <img align="left" src="https://raw.githubusercontent.com/AbdullahBinJahed/AbdullahBInJahed/main/assets/AdachiMama.jpeg" width="180px" height="200px" />
