@@ -16,7 +16,7 @@ I'm just a average person trying to live a average happy life. I love Physics, C
 
  - 🥀 Learning C++ & Linux Terminal
  
- - 🔭 Sakura Adachi FanBoi, don't judge 🙂
+ - 🔭 Sakura Adachi FanBoi 🙂
 
  - 🛸 Into Physics, Computers, Anime, Foreign culture, History, Cosmology and many more things
 
@@ -33,7 +33,6 @@ I'm just a average person trying to live a average happy life. I love Physics, C
 - 👨‍💻 I’m currently working on ...<br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahBinJahed&repo=Cpp_Log&show_owner=true&theme=github_dark)](https://github.com/AbdullahBinJahed/Cpp_Log)<br><br>
 - 👯 I’m looking forward to collaborate with my [Mabudachi](https://github.com/JonayedMohiuddin) for any type of project
-- 🤔 I’m looking for help with me learning C++
 - 💬 Ask me about Anime, Programming or Physics
 - 🤔 I'll try to learn in future:
   - ☢️ __Compiler Design__
@@ -48,10 +47,10 @@ I'm just a average person trying to live a average happy life. I love Physics, C
 - 📫 How to reach me:
   - ✉️ Mail me at [Gmail](https://m.facebook.com/abdullahbinjahed.abj.50)
   - 🙂📖 Knock me at [Facebook](abdullahbinjahed35@gmail.com)
-- ⚡ Fun fact: You are awesome ❤️
-- 😍 btw ... my favorite Light Novel character is Sakura Adachi from [Adachi to Shimamura](https://jnovels.com/adachi-and-shimamura-pdf/)
+- ⚡ Fun fact: 
+- 😍 btw did I mention my favorite Light Novel character is Sakura Adachi from [Adachi to Shimamura](https://jnovels.com/adachi-and-shimamura-pdf/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahBinJahed&layout=compact&langs_count=8&hide=html,css&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahBinJahed&layout=compact&langs_count=8&hide=html,css,makefile&theme=chartreuse-dark)
 
 [![Abdullah's Guthub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahBinJahed&show_icons=true&include_all_commits=true&theme=blue-green)](https://github.com/AbdullahBinJahed)
 
