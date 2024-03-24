@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <h1>Hi there, <a href="github.com/AbdullahBinJahed">ABJ</a> desu~ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
@@ -7,8 +7,8 @@
 </div>
 <!--
 I'm just a average person trying to live a average happy life. I love Physics, Computers and Anime.
-  -->
-  <br />
+
+<!--  <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/kII3NwAFO3YOc/giphy.gif" />
 <p align="center">
   <h3> I'm 20 years old programmer from Bangladesh.</h3>
@@ -65,37 +65,37 @@ I'm just a average person trying to live a average happy life. I love Physics, C
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="NPM" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
 <p align="center">
-  -->
+  --> 
   
-  <p align="center">
+<!--  <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"> 
+ <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"> 
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <!--
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
 -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+ <!-- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <!--
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
 -->  
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+<!--<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <!--
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 -->
-</p>
+<!--</p>
 
 
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-
+-->
 <img align="left" src="https://raw.githubusercontent.com/AbdullahBinJahed/AbdullahBInJahed/main/assets/AdachiMama.jpeg" width="180px" height="200px" />
-
+<!--
 <br><br>
 
 <h1>💖 Thank you for your time 💖 </h1>
@@ -104,3 +104,4 @@ I'm just a average person trying to live a average happy life. I love Physics, C
 <img src="https://visitor-badge.laobi.icu/badge?page_id=AbdullahBinJahed" alt="Visitor count" />
 
 
+-->
